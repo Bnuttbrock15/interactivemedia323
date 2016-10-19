@@ -1,0 +1,33 @@
+ol {
+	font-size: 36px; 
+}
+h1 {
+	color: red;
+	font-size: 48px;
+	font-family: sans-serif;
+}
+ul {
+	color: white; font-family: sans-serif; font-size: 36px;
+}
+li {
+	color:blue; font-size: 22px; font-family: serif;
+}
+div {
+	border: 4px blue;
+	border-bottom-color: white;
+	padding: 2cm 2cm 2cm 2cm;
+	border-style: double;
+	background: lightgrey;
+
+
+}
+h3 {
+	text-align: center;
+	color: black;
+	font-size: 48px;
+	font-family: sans-serif;
+}
+
+p {
+	font-weight: 22px;
+}
